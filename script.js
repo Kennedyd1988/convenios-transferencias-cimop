@@ -1,6 +1,22 @@
 async function carregarJSON(caminho) {
-  const resposta = await fetch(caminho);
-  return await resposta.json();
+
+  try {
+
+    const resposta = await fetch(caminho);
+
+    if (!resposta.ok) {
+      throw new Error(`Erro ao carregar ${caminho}`);
+    }
+
+    return await resposta.json();
+
+  } catch (erro) {
+
+    console.error(erro);
+
+    return [];
+  }
+
 }
 
 function statusClasse(status) {
