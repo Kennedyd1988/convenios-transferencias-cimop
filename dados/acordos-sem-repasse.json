@@ -1,36 +1,9 @@
 [
   {
-    "numero": "Declaração Negativa - 2021",
+    "numero": "Declaração Negativa - 2026",
     "partes": "-",
-    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2021.",
-    "vigencia": "Ano de 2021",
-    "obrigacoes": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2022",
-    "partes": "-",
-    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2022.",
-    "vigencia": "Ano de 2022",
-    "obrigacoes": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2023",
-    "partes": "-",
-    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2023.",
-    "vigencia": "Ano de 2023",
-    "obrigacoes": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2024",
-    "partes": "-",
-    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2024.",
-    "vigencia": "Ano de 2024",
+    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros até a presente data do exercício de 2026.",
+    "vigencia": "Ano de 2026",
     "obrigacoes": "-",
     "situacao": "Sem registros",
     "arquivo": ""
@@ -45,10 +18,37 @@
     "arquivo": ""
   },
   {
-    "numero": "Declaração Negativa - 2026",
+    "numero": "Declaração Negativa - 2024",
     "partes": "-",
-    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros até a presente data do exercício de 2026.",
-    "vigencia": "Ano de 2026",
+    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2024.",
+    "vigencia": "Ano de 2024",
+    "obrigacoes": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2023",
+    "partes": "-",
+    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2023.",
+    "vigencia": "Ano de 2023",
+    "obrigacoes": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2022",
+    "partes": "-",
+    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2022.",
+    "vigencia": "Ano de 2022",
+    "obrigacoes": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2021",
+    "partes": "-",
+    "objeto": "Declaração de inexistência de acordos, termos de cooperação ou ajustes sem transferência de recursos financeiros no exercício de 2021.",
+    "vigencia": "Ano de 2021",
     "obrigacoes": "-",
     "situacao": "Sem registros",
     "arquivo": ""
