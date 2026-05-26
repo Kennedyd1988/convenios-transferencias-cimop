@@ -1,0 +1,15 @@
+PASSO RÁPIDO PARA ATUALIZAR
+
+1. Envie o PDF do convênio para:
+   arquivos/convenios/
+
+2. Abra o arquivo:
+   dados/transferencias-recebidas.json
+
+3. Copie um bloco de convênio e altere os dados.
+
+4. No campo "arquivo", coloque o caminho do PDF.
+   Exemplo:
+   "arquivo": "arquivos/convenios/convenio-002-2026.pdf"
+
+5. Salve e envie os arquivos atualizados para o servidor.

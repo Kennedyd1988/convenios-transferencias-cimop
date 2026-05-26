@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Convênios e Transferências | CIMOP</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topo">
+  <div class="container topo-conteudo">
+    <img 
+      src="https://www.cimop.com.br/admin/globalarq/logo/c357c8523be1cdca50a3186091e32265_reta.png" 
+      alt="Logo CIMOP" 
+      class="logo"
+    >
+    <span class="etiqueta">Portal da Transparência</span>
+    <h1>Convênios, Acordos e Transferências</h1>
+    <p>
+      Consulte as transferências recebidas, transferências realizadas e acordos firmados pelo CIMOP,
+      com acesso às informações essenciais e ao inteiro teor dos instrumentos.
+    </p>
+  </div>
+</header>
+
+<section class="painel-info">
+  <div class="container cards-info">
+    <div class="info-card">
+      <span>Endereço</span>
+      <p>Praça Vicente do Rêgo Filho, nº 76, Centro – Portalegre/RN</p>
+    </div>
+    <div class="info-card">
+      <span>Atendimento</span>
+      <p>De segunda a sexta-feira, das 7h00 às 13h00</p>
+    </div>
+    <div class="info-card">
+      <span>E-mail</span>
+      <a href="mailto:cimop.rn@gmail.com">cimop.rn@gmail.com</a>
+    </div>
+  </div>
+</section>
+
+<main>
+  <div class="container">
+    <div class="secao-titulo">
+      <div>
+        <h2>Consulta pública</h2>
+        <p>Pesquise por número, órgão, beneficiário, objeto, ano, situação ou qualquer informação do registro.</p>
+      </div>
+      <div class="busca">
+        <input type="search" id="campoBusca" placeholder="Pesquisar registro..." onkeyup="filtrarTabelas()">
+      </div>
+    </div>
+
+    <div class="layout">
+      <aside class="menu-categorias">
+        <h3>Categorias</h3>
+        <a href="#recebidas">Transferências Recebidas</a>
+        <a href="#realizadas">Transferências Realizadas</a>
+        <a href="#semrepasse">Acordos sem Repasse</a>
+        <a href="#orientacoes">Orientações</a>
+      </aside>
+
+      <section class="conteudo">
+
+        <div class="bloco" id="recebidas">
+          <h3>5.1 Transferências recebidas pelo CIMOP</h3>
+          <p>
+            Relação dos convênios, termos, acordos ou ajustes em que o CIMOP recebeu recursos
+            de órgãos repassadores ou concedentes.
+          </p>
+
+          <div class="tabela-box">
+            <table>
+              <thead>
+                <tr>
+                  <th>Nº/Ano</th>
+                  <th>Origem</th>
+                  <th>Objeto</th>
+                  <th>Vigência</th>
+                  <th>Valor Total Previsto</th>
+                  <th>Valor Recebido</th>
+                  <th>Situação</th>
+                  <th>Inteiro Teor</th>
+                </tr>
+              </thead>
+              <tbody id="tabelaRecebidas"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="bloco" id="realizadas">
+          <h3>5.2 Transferências realizadas pelo CIMOP</h3>
+          <p>
+            Relação dos convênios, termos, acordos ou ajustes em que o CIMOP realizou repasse
+            de recursos a beneficiários.
+          </p>
+
+          <div class="tabela-box">
+            <table>
+              <thead>
+                <tr>
+                  <th>Nº/Ano</th>
+                  <th>Beneficiário</th>
+                  <th>Objeto</th>
+                  <th>Vigência</th>
+                  <th>Valor Total Previsto</th>
+                  <th>Valor Concedido</th>
+                  <th>Situação</th>
+                  <th>Inteiro Teor</th>
+                </tr>
+              </thead>
+              <tbody id="tabelaRealizadas"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="bloco" id="semrepasse">
+          <h3>5.3 Acordos sem transferência de recursos financeiros</h3>
+          <p>
+            Relação dos acordos, termos de cooperação ou ajustes firmados pelo CIMOP que não envolvem
+            transferência direta de recursos financeiros.
+          </p>
+
+          <div class="tabela-box">
+            <table>
+              <thead>
+                <tr>
+                  <th>Nº/Ano</th>
+                  <th>Partes</th>
+                  <th>Objeto</th>
+                  <th>Vigência</th>
+                  <th>Obrigações Ajustadas</th>
+                  <th>Situação</th>
+                  <th>Inteiro Teor</th>
+                </tr>
+              </thead>
+              <tbody id="tabelaSemRepasse"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="bloco" id="orientacoes">
+          <h3>Orientações ao cidadão</h3>
+          <p>
+            Caso alguma informação não seja localizada nesta página, o cidadão poderá solicitar esclarecimentos
+            pelo Serviço de Informação ao Cidadão, pela Ouvidoria ou pelo e-mail institucional do CIMOP.
+          </p>
+          <div class="observacao">
+            <strong>Atualização:</strong>
+            esta página deve ser atualizada sempre que houver celebração, alteração, recebimento,
+            repasse, encerramento ou prestação de contas de convênios, termos, acordos ou ajustes.
+          </div>
+        </div>
+
+      </section>
+    </div>
+  </div>
+</main>
+
+<footer class="rodape">
+  <p>© CIMOP – Consórcio Intermunicipal Multifinalitário dos Municípios do Oeste Potiguar</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
