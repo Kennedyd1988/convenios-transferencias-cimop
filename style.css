@@ -327,4 +327,10 @@ tr:nth-child(even) td {
     flex-direction: column;
     align-items: start;
   }
+ .data-atualizacao{
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #d8e6f5;
+  font-weight: 600;
+}
 }
