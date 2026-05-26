@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf-autotable@3.8.2/dist/jspdf.plugin.autotable.min.js"></script>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -60,6 +63,13 @@
       <div class="busca">
         <input type="search" id="campoBusca" placeholder="Pesquisar registro..." onkeyup="filtrarTabelas()">
       </div>
+      <div class="botoes-exportacao">
+  <button onclick="exportarCSV()">CSV</button>
+  <button onclick="exportarXLSX()">XLSX</button>
+  <button onclick="exportarJSON()">JSON</button>
+  <button onclick="exportarXML()">XML</button>
+  <button onclick="exportarPDF()">PDF</button>
+</div>
     </div>
 
     <div class="layout">
