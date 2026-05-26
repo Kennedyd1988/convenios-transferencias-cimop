@@ -9,4 +9,54 @@
     "situacao": "Vigente",
     "arquivo": "arquivos/convenios/CIMOP - 1099699-58 - Termo de Compromisso Novo PAC.pdf"
   }
+  {
+    "numero": "Declaração Negativa - 2025",
+    "origem": "-",
+    "objeto": "Não houve transferências recebidas por meio de convênios, termos, acordos ou ajustes no exercício de 2025.",
+    "vigencia": "Ano de 2025",
+    "valorTotal": "-",
+    "valorRecebido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2024",
+    "origem": "-",
+    "objeto": "Não houve transferências recebidas por meio de convênios, termos, acordos ou ajustes no exercício de 2024.",
+    "vigencia": "Ano de 2024",
+    "valorTotal": "-",
+    "valorRecebido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2023",
+    "origem": "-",
+    "objeto": "Não houve transferências recebidas por meio de convênios, termos, acordos ou ajustes no exercício de 2023.",
+    "vigencia": "Ano de 2023",
+    "valorTotal": "-",
+    "valorRecebido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2022",
+    "origem": "-",
+    "objeto": "Não houve transferências recebidas por meio de convênios, termos, acordos ou ajustes no exercício de 2022.",
+    "vigencia": "Ano de 2022",
+    "valorTotal": "-",
+    "valorRecebido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2021",
+    "origem": "-",
+    "objeto": "Não houve transferências recebidas por meio de convênios, termos, acordos ou ajustes no exercício de 2021.",
+    "vigencia": "Ano de 2021",
+    "valorTotal": "-",
+    "valorRecebido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  }
 ]
