@@ -1,39 +1,9 @@
 [
   {
-    "numero": "Declaração Negativa - 2021",
+    "numero": "Declaração Negativa - 2026",
     "beneficiario": "-",
-    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2021.",
-    "vigencia": "Ano de 2021",
-    "valorTotal": "-",
-    "valorConcedido": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2022",
-    "beneficiario": "-",
-    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2022.",
-    "vigencia": "Ano de 2022",
-    "valorTotal": "-",
-    "valorConcedido": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2023",
-    "beneficiario": "-",
-    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2023.",
-    "vigencia": "Ano de 2023",
-    "valorTotal": "-",
-    "valorConcedido": "-",
-    "situacao": "Sem registros",
-    "arquivo": ""
-  },
-  {
-    "numero": "Declaração Negativa - 2024",
-    "beneficiario": "-",
-    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2024.",
-    "vigencia": "Ano de 2024",
+    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes até a presente data do exercício de 2026.",
+    "vigencia": "Ano de 2026",
     "valorTotal": "-",
     "valorConcedido": "-",
     "situacao": "Sem registros",
@@ -50,10 +20,40 @@
     "arquivo": ""
   },
   {
-    "numero": "Declaração Negativa - 2026",
+    "numero": "Declaração Negativa - 2024",
     "beneficiario": "-",
-    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes até a presente data do exercício de 2026.",
-    "vigencia": "Ano de 2026",
+    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2024.",
+    "vigencia": "Ano de 2024",
+    "valorTotal": "-",
+    "valorConcedido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2023",
+    "beneficiario": "-",
+    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2023.",
+    "vigencia": "Ano de 2023",
+    "valorTotal": "-",
+    "valorConcedido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2022",
+    "beneficiario": "-",
+    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2022.",
+    "vigencia": "Ano de 2022",
+    "valorTotal": "-",
+    "valorConcedido": "-",
+    "situacao": "Sem registros",
+    "arquivo": ""
+  },
+  {
+    "numero": "Declaração Negativa - 2021",
+    "beneficiario": "-",
+    "objeto": "Declaração de inexistência de transferências realizadas por meio de convênios, termos, acordos ou ajustes no exercício de 2021.",
+    "vigencia": "Ano de 2021",
     "valorTotal": "-",
     "valorConcedido": "-",
     "situacao": "Sem registros",
