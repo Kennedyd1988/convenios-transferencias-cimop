@@ -120,3 +120,15 @@ function filtrarTabelas() {
 }
 
 iniciarPagina();
+
+const hoje = new Date();
+
+const dataFormatada =
+  hoje.toLocaleDateString("pt-BR") +
+  " às " +
+  hoje.toLocaleTimeString("pt-BR", {
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+
+document.getElementById("dataHoje").innerHTML = dataFormatada;
