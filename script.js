@@ -139,6 +139,11 @@ iniciarPagina();
 
 const hoje = new Date();
 
+// Subtrai 20 dias e 10 horas
+const dataAtualizacao = new Date(
+  agora.getTime() - ((20 * 24 + 10) * 60 * 60 * 1000)
+);
+
 const dataFormatada =
   hoje.toLocaleDateString("pt-BR") +
   " às " +
